@@ -37,3 +37,7 @@ This project analyzes a retail sales dataset using Python to identify sales tren
 
 ## Author
 Angela Iseriehen
+
+GitHub: https://github.com/Osas-25
+
+OASIS Infobyte Data Analytics Internship – Level 1 Task 1
